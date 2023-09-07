@@ -1,0 +1,6 @@
+fun main(args: Array<String>) {
+   val position: Int = 21
+    val row: Int = position / 8
+    val column: Int = position % 8
+    
+}
